@@ -1,4 +1,6 @@
 # Mochila de Viagem
+![mochila_de_viagem](https://github.com/user-attachments/assets/fa72de11-1758-4b75-aaca-acf8dad667af)
+
 
 Este projeto foi desenvolvido como parte dos cursos da plataforma Alura, com o objetivo de aprender a armazenar dados no navegador usando JavaScript. O projeto "Mochila de Viagem" simula o uso de uma mochila digital onde itens são adicionados e armazenados em cache, permitindo persistir os dados mesmo ao atualizar a página.
 
