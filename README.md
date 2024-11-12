@@ -29,3 +29,15 @@ Este projeto abordou conceitos essenciais de armazenamento de dados no navegador
 ├── index.html       # Página principal com a estrutura HTML
 ├── css/style.css        # Arquivo de estilos
 └── js/script.js        # Lógica para manipulação de dados e armazenamento
+```
+## 🔧 Como Executar o Projeto
+
+**1. Clone este repositório:**
+   ```bash
+   git clone https://github.com/seuusuario/mochila-de-viagem.git
+```
+**2. Navegue até o diretório do projeto:**
+```
+cd mochila-de-viagem
+```
+**3. Abra o arquivo index.html em um navegador para visualizar e testar o projeto.**
